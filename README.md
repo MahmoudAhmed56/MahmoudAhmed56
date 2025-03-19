@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <h1>
   Hi There I'm Mahmoud Ahmed 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -7,10 +7,10 @@
 I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
 </p>
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript & React.
+- 👨‍💻 I’m currently working on web development technologies like React.js & Next.js &Node.js.
 - 📚 I’m currently learning about Frontend and Backend technologies.
 - 🎯 Future Goals: Learn more web technologies - Create awesome websites.
-
+<br><br>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -40,9 +40,3 @@ I'm a software developer with a strong passion for creating visually appealing a
   
 </p>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAhmed56&layout=compact)
-<br>
-<a href="https://komarev.com/ghpvc/?username=MahmoudAhmed56&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=MahmoudAhmed56&style=for-the-badge">
-</a>
