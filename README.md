@@ -20,7 +20,7 @@ I'm a software developer with a strong passion for creating visually appealing a
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,postgres,prisma,pug,express,firebase,github,html,js,mongodb,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,bootstrap,tailwind,postgres,mongodb,express,prisma,supabase,git,pug,firebase,github,postman,vscode,npm,gulp&perline=14" />
   </a>
 </p>
 <!-- Connect with me -->
