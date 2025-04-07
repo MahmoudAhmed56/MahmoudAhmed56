@@ -23,7 +23,7 @@ I'm a software developer with a strong passion for creating visually appealing a
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,bootstrap,tailwind,nodejs,express,postgres,mongodb,prisma,supabase,git,github,pug,firebase,postman,vscode,npm,gulp&perline=9" />
   </a>
 </p>
-<!-- Connect with me -->
+<!-- Connect with me -->  
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
